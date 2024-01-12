@@ -21,9 +21,9 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now got a fully functioning workflow! :smile:_
+:smile:_ _You've now got a fully functioning workflow! :smile:_
 
-:smile:_Your new action will run any time a pull request has been opened.
+Maybe it will work this time Your new action will run any time a pull request has been opened.
 
 **Seeing your _action_ in action**: The status of your action is shown in a pull request before you merge, look for **All checks have passed** when you try out the steps below. You can also view them from the **Actions** tab in your repository. From there, you will see all the actions that have run, and you can click on each action to view details and access log files.
 
@@ -31,7 +31,7 @@ _You've now got a fully functioning workflow! :smile:_
 
 ### :keyboard: Activity: Trigger the workflow:
 
-1. Make a new branch named `test-workflow`.:smile:_
+1. Make a new branch named `test-workflow`.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
